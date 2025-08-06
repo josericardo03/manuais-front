@@ -19,6 +19,7 @@ import FontFamily from "@tiptap/extension-font-family";
 import TextAlign from "@tiptap/extension-text-align";
 import Collaboration from "@tiptap/extension-collaboration";
 import FontSize from "@tiptap/extension-font-size";
+// Removendo extensões problemáticas - implementaremos funcionalidades de forma mais simples
 import * as Y from "yjs";
 import { WebsocketProvider } from "y-websocket";
 import { useEffect, useState } from "react";
